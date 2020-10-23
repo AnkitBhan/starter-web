@@ -1,0 +1,19 @@
+
+this is for the testing perpose
+yes
+
+>> added a new line for commit and push
+
+
+>> added a new line to commit only.
+
+>> added a new line to add only and no commit.
+
+
+>> added a new line to work.
+
+>> one more line added to see branching.
+
+>> adding text for branch1
+
+>> text from branch 1
