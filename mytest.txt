@@ -5,3 +5,8 @@ yes
 
 
 >> added a new line to commit only.
+
+>> added a new line to add only and no commit.
+
+
+>> added a new line to work.
